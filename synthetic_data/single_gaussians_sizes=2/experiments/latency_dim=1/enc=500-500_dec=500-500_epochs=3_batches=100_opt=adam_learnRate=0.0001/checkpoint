@@ -1,0 +1,2 @@
+model_checkpoint_path: "exp.meta"
+all_model_checkpoint_paths: "exp.meta"
